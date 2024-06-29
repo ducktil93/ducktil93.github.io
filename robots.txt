@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ducktil93.github.io/sitemap.xml
